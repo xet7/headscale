@@ -8,7 +8,7 @@ require (
 	github.com/cenkalti/backoff/v4 v4.1.1 // indirect
 	github.com/containerd/continuity v0.1.0 // indirect
 	github.com/docker/cli v20.10.8+incompatible // indirect
-	github.com/docker/docker v20.10.8+incompatible // indirect
+	github.com/docker/docker v20.10.24+incompatible // indirect
 	github.com/efekarakus/termcolor v1.0.1
 	github.com/gin-gonic/gin v1.7.2
 	github.com/hako/durafmt v0.0.0-20210608085754-5c1018a4e16b
@@ -22,7 +22,7 @@ require (
 	github.com/rs/zerolog v1.23.0
 	github.com/spf13/cobra v1.1.3
 	github.com/spf13/viper v1.8.1
-	github.com/stretchr/testify v1.7.0 // indirect
+	github.com/stretchr/testify v1.7.0
 	github.com/tailscale/hujson v0.0.0-20200924210142-dde312d0d6a2
 	github.com/xeipuuv/gojsonpointer v0.0.0-20190905194746-02993c407bfb // indirect
 	golang.org/x/crypto v0.0.0-20210616213533-5ff15b29337e
